@@ -23,36 +23,22 @@ Parse native documents into a common structure, then export to the formats you n
 
 ## SPONSOR
 
-感谢你对开源工作的支持。
+我喝咖啡，模型吃 token。用支付宝（蓝）或微信（绿）投喂 30 元，请它再啃一篇 PDF。
+
+<p>
+  <img src="assets/alipay.png" alt="支付宝收款码，小萌Moe，30 元" width="232">
+  <img src="assets/wechat-pay.png" alt="微信收款码，小萌Moe，30 元" width="232">
+</p>
 
 <a href="https://www.buymeacoffee.com/myhloli">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="220">
 </a>
 
-<!-- 上传真实收款码后，将对应区块移到注释之外；保留原始二维码及周围留白。
-
-### 微信
-
-<img src="assets/wechat-pay.png" alt="微信赞助收款码" width="220">
-
-### 支付宝
-
-<img src="assets/alipay.png" alt="支付宝赞助收款码" width="220">
-
--->
-
 ## 知识星球
 
 本地部署支持、解析问题与使用体验反馈、新功能预览及开发动态。
 
-<!-- 上传真实知识星球二维码后，将下面的图片与说明移到注释之外。
-
-<img src="assets/knowledge-planet.png" alt="知识星球二维码" width="240">
-
-扫码加入知识星球。
-
-如有正式加入链接，可在此补充文字入口。
--->
+<img src="assets/knowledge-planet.png" alt="扫码加入「文档智能」知识星球" width="232">
 
 ## Explore
 
