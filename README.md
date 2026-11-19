@@ -28,11 +28,8 @@ Parse native documents into a common structure, then export to the formats you n
 <p>
   <img src="assets/alipay.png" alt="支付宝收款码，小萌Moe，30 元" width="232">
   <img src="assets/wechat-pay.png" alt="微信收款码，小萌Moe，30 元" width="232">
+  <a href="https://buymeacoffee.com/myhloli"><img src="assets/buy-me-a-coffee.png" alt="Buy Me a Coffee，扫码或点击支持小萌Moe" width="232"></a>
 </p>
-
-<a href="https://www.buymeacoffee.com/myhloli">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="220">
-</a>
 
 ## 知识星球
 
