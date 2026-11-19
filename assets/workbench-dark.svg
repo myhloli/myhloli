@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" role="img" aria-labelledby="title desc">
+  <title id="title">A workbench for document tools</title>
+  <desc id="desc">An abstract arrangement of paper shapes, text lines, and structured blocks in muted rose, apricot, and lavender on a dark background.</desc>
+  <rect width="1200" height="210" rx="18" fill="#211d24"/>
+  <circle cx="1085" cy="25" r="158" fill="#322735"/>
+  <circle cx="157" cy="199" r="135" fill="#39272b"/>
+  <g transform="translate(278 18) rotate(-8 72 88)">
+    <rect x="12" y="8" width="130" height="175" rx="12" fill="#6c4843"/>
+    <rect width="130" height="175" rx="12" fill="#ede1d7"/>
+    <rect x="24" y="29" width="67" height="10" rx="5" fill="#965a50"/>
+    <rect x="24" y="53" width="82" height="5" rx="2.5" fill="#bd9b8e"/>
+    <rect x="24" y="67" width="70" height="5" rx="2.5" fill="#bd9b8e"/>
+    <rect x="24" y="94" width="36" height="49" rx="5" fill="#c6a69a"/>
+    <rect x="69" y="94" width="37" height="21" rx="5" fill="#bcabc8"/>
+    <rect x="69" y="123" width="37" height="20" rx="5" fill="#c5aa7d"/>
+  </g>
+  <g transform="translate(530 36) rotate(5 60 65)">
+    <rect width="168" height="136" rx="12" fill="#59465f"/>
+    <rect x="20" y="20" width="128" height="17" rx="5" fill="#b499cc"/>
+    <rect x="20" y="49" width="55" height="67" rx="5" fill="#c7b6ce"/>
+    <rect x="86" y="49" width="62" height="28" rx="5" fill="#ba9e8d"/>
+    <rect x="86" y="88" width="62" height="28" rx="5" fill="#d9cad9"/>
+  </g>
+  <g transform="translate(808 40)">
+    <rect x="0" y="0" width="108" height="31" rx="8" fill="#bf8e82"/>
+    <rect x="0" y="46" width="149" height="31" rx="8" fill="#8d7068"/>
+    <rect x="0" y="92" width="86" height="31" rx="8" fill="#9b81a6"/>
+  </g>
+  <circle cx="462" cy="105" r="5" fill="#806f76"/>
+  <circle cx="485" cy="105" r="5" fill="#66555d"/>
+  <circle cx="733" cy="105" r="5" fill="#806f76"/>
+  <circle cx="756" cy="105" r="5" fill="#66555d"/>
+</svg>
