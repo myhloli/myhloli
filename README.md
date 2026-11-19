@@ -23,7 +23,7 @@ Parse native documents into a common structure, then export to the formats you n
 
 ## SPONSOR
 
-我喝咖啡，模型吃 token。用支付宝（蓝）或微信（绿）投喂 30 元，请它再啃一篇 PDF。
+开发不易，token 自费，感谢您对开源工作的支持。
 
 <p>
   <img src="assets/alipay.png" alt="支付宝收款码，小萌Moe，30 元" width="232">
