@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" role="img" aria-labelledby="title desc">
+  <title id="title">A workbench for document tools</title>
+  <desc id="desc">An abstract arrangement of paper shapes, text lines, and structured blocks in warm rose, apricot, and lavender.</desc>
+  <rect width="1200" height="210" rx="18" fill="#f7f2ee"/>
+  <circle cx="1085" cy="25" r="158" fill="#f0e5ed"/>
+  <circle cx="157" cy="199" r="135" fill="#efdfd7"/>
+  <g transform="translate(278 18) rotate(-8 72 88)">
+    <rect x="12" y="8" width="130" height="175" rx="12" fill="#e9bba8"/>
+    <rect width="130" height="175" rx="12" fill="#fffdf9"/>
+    <rect x="24" y="29" width="67" height="10" rx="5" fill="#ac6d60"/>
+    <rect x="24" y="53" width="82" height="5" rx="2.5" fill="#d9bdb2"/>
+    <rect x="24" y="67" width="70" height="5" rx="2.5" fill="#d9bdb2"/>
+    <rect x="24" y="94" width="36" height="49" rx="5" fill="#e8d2c8"/>
+    <rect x="69" y="94" width="37" height="21" rx="5" fill="#e4dce9"/>
+    <rect x="69" y="123" width="37" height="20" rx="5" fill="#f1ddbb"/>
+  </g>
+  <g transform="translate(530 36) rotate(5 60 65)">
+    <rect width="168" height="136" rx="12" fill="#dfd6e8"/>
+    <rect x="20" y="20" width="128" height="17" rx="5" fill="#9b83b2"/>
+    <rect x="20" y="49" width="55" height="67" rx="5" fill="#fdfbf9"/>
+    <rect x="86" y="49" width="62" height="28" rx="5" fill="#f0e3d6"/>
+    <rect x="86" y="88" width="62" height="28" rx="5" fill="#fdfbf9"/>
+  </g>
+  <g transform="translate(808 40)">
+    <rect x="0" y="0" width="108" height="31" rx="8" fill="#b78176"/>
+    <rect x="0" y="46" width="149" height="31" rx="8" fill="#ceb3a8"/>
+    <rect x="0" y="92" width="86" height="31" rx="8" fill="#d8c5df"/>
+  </g>
+  <circle cx="462" cy="105" r="5" fill="#b19e94"/>
+  <circle cx="485" cy="105" r="5" fill="#c7b6ad"/>
+  <circle cx="733" cy="105" r="5" fill="#b19e94"/>
+  <circle cx="756" cy="105" r="5" fill="#c7b6ad"/>
+</svg>
