@@ -3,7 +3,7 @@
   <img alt="Paper shapes and structured blocks in warm rose, apricot, and lavender" src="assets/workbench.svg" width="100%">
 </picture>
 
-# Xiaomeng Zhao · myhloli
+# Xiaomeng · myhloli
 
 Hi, I’m **Xiaomeng**. I build open-source document parsers at [OpenDataLab](https://github.com/opendatalab).
 
