@@ -18,11 +18,8 @@ Parse native documents into a common structure, then export to the formats you n
 ## Supporting tools
 
 - **[mineru-vl-utils](https://github.com/opendatalab/mineru-vl-utils)** — A Python toolkit for working with the MinerU vision-language model.
+- **[mineru-llama-cpp](https://github.com/opendatalab/mineru-llama-cpp)** — In-process llama.cpp inference for MinerU.
 - **[metafile-render](https://github.com/myhloli/metafile-render)** — Render WMF and EMF files as SVG, PNG, JPEG, or WebP.
-
-## Explore
-
-[Blog](https://myhloli.com) · [Google Scholar](https://scholar.google.com/citations?user=BdakD8YAAAAJ) · [ORCID](https://orcid.org/0009-0007-3365-3090) · [Trendshift](https://trendshift.io/developers/8261)
 
 ## SPONSOR
 
@@ -46,13 +43,7 @@ Parse native documents into a common structure, then export to the formats you n
 
 ## 知识星球
 
-加入知识星球，交流文档解析与本地部署：
-
-- **本地部署支持**：交流安装配置、运行环境与部署问题。
-- **解析问题反馈与优化**：反馈解析案例，交流问题定位与改进。
-- **使用体验反馈**：反馈使用中的问题与建议，参与功能改进。
-- **最新功能预览**：提前了解和体验正在开发的新功能。
-- **开发动态早知道**：了解开发进展与后续计划。
+本地部署支持、解析问题与使用体验反馈、新功能预览及开发动态。
 
 <!-- 上传真实知识星球二维码后，将下面的图片与说明移到注释之外。
 
@@ -62,3 +53,7 @@ Parse native documents into a common structure, then export to the formats you n
 
 如有正式加入链接，可在此补充文字入口。
 -->
+
+## Explore
+
+[Blog](https://myhloli.com) · [Google Scholar](https://scholar.google.com/citations?user=BdakD8YAAAAJ) · [ORCID](https://orcid.org/0009-0007-3365-3090) · [Trendshift](https://trendshift.io/developers/8261)
